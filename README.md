@@ -61,7 +61,7 @@ Given a list of integers in a file (one integer per line), the task is to:
 
 ### 1. Navigate to the source directory:
 ```bash
-cd /c/Users/Seyi\ Adebayo/dsa/hw01/code/src
+cd <directory path>/dsa/hw01/code/src
 ```
 
 ### 2. Run the script:
@@ -141,7 +141,7 @@ Enterprise Web Development Student
 
 - To clear the results folder:
 ```bash
-rm -rf <project folder>/sample_results/*
+rm -rf <directory path>/sample_results/*
 ```
 
 - If you're using Windows, ensure you escape spaces or use quotes in folder paths.
